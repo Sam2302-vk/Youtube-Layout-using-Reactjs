@@ -1,0 +1,20 @@
+.Content {
+    margin-left: 100px;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 80px;
+}
+
+.col iframe {
+    width: 400px;
+    height: 200px;
+    margin: 20px 10px 0px 10px;
+    border-radius: 10px;
+}
+
+.col p {
+    margin-left: 10px;
+    font-weight: bold;
+    color: white;
+}
